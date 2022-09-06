@@ -7,7 +7,7 @@ library(plotly)
 library(dplyr)
 library(sf)
 library(ggplot2)
-source("C:/Users/Seldon/Desktop/prettyNetworkCounty/app/base.R")
+source("base.R")
 
 
 ui <- fluidPage(

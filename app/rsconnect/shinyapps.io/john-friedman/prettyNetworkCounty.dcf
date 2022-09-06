@@ -1,0 +1,13 @@
+name: prettyNetworkCounty
+title: prettyNetworkCounty
+username:
+account: john-friedman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6928435
+bundleId: 6272718
+url: https://john-friedman.shinyapps.io/prettyNetworkCounty/
+when: 1662449514.55067
+lastSyncTime: 1662449514.55067
+asMultiple: FALSE
+asStatic: FALSE
