@@ -1,6 +1,6 @@
 # prettyNetworkCounty
 
-Labor day project to learn how to speed up R
+Labor day project to learn how to speed up R [Pretty Network County](https://john-friedman.shinyapps.io/prettyNetworkCounty/)
 
 packages:
 * igraph
