@@ -11,6 +11,7 @@ packages:
     * rendering color takes a while
 * plotly
     * plotly proxy documentation is not great yet - working on this
+	* not implemented 9/5/22
 
 
 # TODO
